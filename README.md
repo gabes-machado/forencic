@@ -10,6 +10,6 @@ Repositório para desenvolvimento e unificação de recursos do projeto "IA na p
 
 ## Tutoriais:
 
-https://www.datacamp.com/tutorial/fine-tuning-large-language-models
-https://www.datacamp.com/tutorial/fine-tuning-llama-2
-https://www.datacamp.com/tutorial/llama3-fine-tuning-locally
+- https://www.datacamp.com/tutorial/fine-tuning-large-language-models
+- https://www.datacamp.com/tutorial/fine-tuning-llama-2
+- https://www.datacamp.com/tutorial/llama3-fine-tuning-locally
