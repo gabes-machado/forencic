@@ -4,9 +4,9 @@ Repositório para desenvolvimento e unificação de recursos do projeto "IA na p
 
 ## Ferramentas:
 
-[Diagrams - Ferramenta de criação de diagramas e mapeamento de processos](https://app.diagrams.net/)
-[Ollama - Ferramenta para desenvolvimento de IA's localmente](https://ollama.com/)
-[Orange Data Mining - Ferramenta de mineração de dados](https://orangedatamining.com/)
+- [Diagrams - Ferramenta de criação de diagramas e mapeamento de processos](https://app.diagrams.net/)
+- [Ollama - Ferramenta para desenvolvimento de IA's localmente](https://ollama.com/)
+- [Orange Data Mining - Ferramenta de mineração de dados](https://orangedatamining.com/)
 
 ## Tutoriais:
 
